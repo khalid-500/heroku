@@ -5,8 +5,8 @@
 process.env.PORT || 3000
 ```
 ### Procfile
-- Create File Name @@@Procfile
-- Insert Thes Text In IT @@@web: node index.js
+- Create File Name .@@@Procfile
+- Insert Thes Text In IT .@@@web: node index.js
 ## HEROKU RESOURSE
 - applay Heroku Postgres 
 ## HEROKU SETTING
